@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp4
 {
-    partial class Form1
+    partial class Start
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,36 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            btnStartOrder = new Button();
             SuspendLayout();
             // 
-            // button1
+            // btnStartOrder
             // 
-            button1.BackColor = SystemColors.ActiveCaption;
-            button1.Font = new Font("Segoe UI Black", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(344, 193);
-            button1.Name = "button1";
-            button1.Size = new Size(113, 43);
-            button1.TabIndex = 0;
-            button1.Text = "Start Order";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            btnStartOrder.BackColor = SystemColors.ActiveCaption;
+            btnStartOrder.Font = new Font("Segoe UI Black", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnStartOrder.Location = new Point(430, 241);
+            btnStartOrder.Margin = new Padding(4);
+            btnStartOrder.Name = "btnStartOrder";
+            btnStartOrder.Size = new Size(141, 54);
+            btnStartOrder.TabIndex = 0;
+            btnStartOrder.Text = "Start Order";
+            btnStartOrder.UseVisualStyleBackColor = false;
+            btnStartOrder.Click += this.btnStartOrder_Click;
             // 
-            // Form1
+            // Start
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources._360_F_305838467_v52Tyml9vmCzhodgMCH0L0kWw85Z2iUo;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(800, 450);
-            Controls.Add(button1);
-            Name = "Form1";
-            Text = "Form1";
+            ClientSize = new Size(1000, 562);
+            Controls.Add(btnStartOrder);
+            Margin = new Padding(4);
+            Name = "Start";
+            Text = "Start";
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Button button1;
+        private Button btnStartOrder;
     }
 }

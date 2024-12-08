@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\varrxcia\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+      "projectUniqueName": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
       "projectName": "WinFormsApp4",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\WinFormsApp4\\WinFormsApp4\\obj\\",
+      "projectPath": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+      "packagesPath": "C:\\Users\\varrxcia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\varrxcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
