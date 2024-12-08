@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\varrxcia\\source\\repos\\WinFormsApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\varrxcia\\source\\repos\\winformsapp4\\winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\varrxcia\\source\\repos\\winformsapp4\\winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\varrxcia\\source\\repos\\winformsapp4\\winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91960B73-B94C-4438-9916-85CCA092ECC1}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\varrxcia\\source\\repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
               "RelativeDocumentMoniker": "WinFormsApp4\\Order.cs",
-              "ToolTip": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
+              "ToolTip": "C:\\Users\\varrxcia\\source\\repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
               "RelativeToolTip": "WinFormsApp4\\Order.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T22:00:26.464Z",
               "IsPinned": true,
@@ -44,11 +44,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Order.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\varrxcia\\source\\repos\\WinFormsApp4\\WinFormsApp4\\Order.cs",
               "RelativeDocumentMoniker": "WinFormsApp4\\Order.cs",
-              "ToolTip": "C:\\Users\\varrxcia\\Source\\Repos\\WinFormsApp4\\WinFormsApp4\\Order.cs [Design]",
+              "ToolTip": "C:\\Users\\varrxcia\\source\\repos\\WinFormsApp4\\WinFormsApp4\\Order.cs [Design]",
               "RelativeToolTip": "WinFormsApp4\\Order.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T22:01:47.101Z",
